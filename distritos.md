@@ -1,7 +1,5 @@
 # Distritos
 - La victoria
 - San juan de lurigancho
-
- - Callao
-
+- Callao
 - Villa el salvador
